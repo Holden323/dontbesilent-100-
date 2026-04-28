@@ -20,7 +20,7 @@
 在 Claude Code、Cowork 或任何支持 Agent Skills 的工具中说：
 
 ```
-帮我安装这个 skill：https://github.com/你的用户名/problem-dissolution
+帮我安装这个 skill：https://github.com/Holden323/problem-dissolution
 ```
 
 或手动下载 `SKILL.md` 放入你的 skills 目录。
